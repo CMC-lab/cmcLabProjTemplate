@@ -1,0 +1,4 @@
+#+TITLE: Configuration files
+
+This directory contains project /configuration/ files. 
+For instance, if there is a set of paths that is always called when user start working on the project. In this project structure, files here are typically called in ~ignit~ files.

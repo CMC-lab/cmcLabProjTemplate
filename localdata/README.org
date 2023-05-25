@@ -1,0 +1,5 @@
+#+TITLE: Local data
+
+As the name suggests, this directory should be used for storing (only) *light* local data. 
+
+

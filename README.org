@@ -1,0 +1,51 @@
+Directory structure of the project:
+
+#+BEGIN_SRC sh :results output :exports results :cache yes
+tree -F -d -L 2 ./
+#+END_SRC
+
+#+RESULTS[148c8ceb23035813c239f10b432368b6c6ab16b5]:
+#+begin_example
+./
+├── bku
+├── cfg
+├── explorations
+│   ├── notebooks
+│   ├── soa
+│   └── unpublished
+├── ext
+├── localdata
+├── notes
+├── reports
+│   ├── AbstractsPosters
+│   ├── confs
+│   ├── misc
+│   ├── papers
+│   ├── presentations
+│   ├── proposals
+│   ├── sot
+│   └── sreps
+├── sandbox
+├── shared
+│   └── lnJrnlYYYY_shortTitleXXXXX
+├── src
+│   ├── data
+│   ├── exptools
+│   ├── methods
+│   ├── misc
+│   ├── packages
+│   ├── simulations
+│   └── utilities
+├── tmp
+├── tutorials
+├── visualizations
+│   ├── AbstractsPosters
+│   ├── confPapers
+│   ├── misc
+│   ├── papers
+│   └── presentations
+└── void
+
+38 directories
+#+end_example
+
