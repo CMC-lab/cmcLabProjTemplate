@@ -1,7 +1,17 @@
-~put some basic info about the project here~
+~some basic info about the project here~
 
-* Directory structure
+*  Repository skeleton
+** Key components
 
+| name           | description                                                       |
+|----------------+-------------------------------------------------------------------|
+| cfg            | Config files                                                      |
+| explorations   | All exploratory analysis                                          |
+| reports        | Most textual outputs (papers, posters, etc)                       |
+| src            | All src codes (core routines, data pre-processing)                |
+| visualizations | All codes that generate the figures of papers, poster, talks, etc |
+
+** Directory structure 
 #+BEGIN_SRC sh :results output :exports results :cache yes
 tree -F -d -L 2 ./
 #+END_SRC
